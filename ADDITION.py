@@ -1,4 +1,6 @@
-a = 5
-b = 7
+a = 50
+b = 75
 c = a + b 
-print("c")
+print(c)
+d = a-b
+print(d)
